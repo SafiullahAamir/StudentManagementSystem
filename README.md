@@ -1,5 +1,7 @@
 # Student Management System
 
+![Interface](Interface.png)
+
 ## Project Description
 
 The Student Management System is a console-based application that allows users to manage and edit student records. The system provides functionalities for both admin and student users. 
